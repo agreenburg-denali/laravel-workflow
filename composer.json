@@ -1,5 +1,5 @@
 {
-    "name": "brexis/laravel-workflow",
+    "name": "denali/laravel-workflow-5.2-backport",
     "description": "Integerate Symfony Workflow component into Laravel.",
     "keywords": ["workflow", "symfony", "laravel", "laravel5"],
     "license": "MIT",
@@ -8,8 +8,8 @@
         "symfony/workflow": "^3.2",
         "symfony/process": "^3.1",
         "symfony/event-dispatcher": "^3.1",
-        "illuminate/console": "^5.3",
-        "illuminate/support": "^5.3"
+        "illuminate/console": "^5.2",
+        "illuminate/support": "^5.2"
     },
     "autoload": {
         "psr-4": {
